@@ -24,4 +24,4 @@ This project demonstrates practical use of core HTML components to create a simp
 ```bash
    git clone https://github.com/vednav9/nibodh-internship-assignment-of-html.git
 ```
-2. Open index.html in your web browser.
+2. Open ```Vehicle showroom.html``` in your web browser.
