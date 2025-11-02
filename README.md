@@ -1,4 +1,4 @@
-# 🌐 Assignment of HTML
+# Assignment of HTML
 
 > 2022 – Second HTML project from my Nibodh internship
 
